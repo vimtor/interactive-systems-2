@@ -1,0 +1,5 @@
+I added the following extras:
+- Press Shift to speed up the Hay Machine
+- Make the spawner rate lower as the game advances
+- Player lives that decrease when it gets hit by a sheep
+- An increasing score when a sheep gets haystacked
